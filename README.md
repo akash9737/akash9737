@@ -1,28 +1,106 @@
-<h1 align="center">Hi 👋, I'm Parsaniya akash</h1>
-<h3 align="center">I am 3rd Years Student of Computer Engg</h3>
+<h1 align="center">Hi 👋, I'm Akash Parsaniya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash9737&label=Profile%20views&color=0e75b6&style=flat" alt="akash9737" /> </p>
+<h3 align="center">☕ Java Backend Developer | Spring Boot | Microservices | Docker | DSA Enthusiast</h3>
 
-- 🔭 I’m currently working on [Stock broker](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 🌱 I’m currently learning **Spring Boot Frameworks**
-
-- 📫 How to reach me **akash.parsaniya18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/parsaniyaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/parsaniyaakash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/akash-parsaniya-8197a5324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akash-parsaniya-8197a5324" height="30" width="40" /></a>
-<a href="https://instagram.com/akash.parsaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.parsaniya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akash_parsaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akash_parsaniya/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="120"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash9737&show_icons=true&locale=en&layout=compact" alt="akash9737" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash9737&show_icons=true&locale=en" alt="akash9737" /></p>
+- 💻 Backend Developer specialized in **Java & Spring Ecosystem**
+- 🚀 Building scalable applications using **Spring Boot & Microservices**
+- 🐳 Deploying containerized applications with **Docker**
+- 🧠 Solving **LeetCode DSA problems** regularly
+- 📚 Currently learning **System Design & Distributed Systems**
+- 📫 Email: **akash.parsaniya18@gmail.com**
+- ⚡ Fun fact: I debug more than I sleep 😄
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash9737&" alt="akash9737" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Backend & Frameworks
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
+</p>
+
+---
+
+## 🏗️ What I Work On
+
+✔️ REST APIs  
+✔️ JWT Authentication (Spring Security)  
+✔️ Microservices Architecture  
+✔️ Service-to-Service Communication  
+✔️ Dockerized Applications  
+✔️ Database Design & Optimization  
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+- ✅ Trees  
+- ✅ Graphs  
+- ✅ Dynamic Programming  
+- ✅ Recursion & Backtracking  
+- ✅ Sliding Window  
+- ✅ Binary Search  
+- ✅ Stack & Queue  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/akash9737?cardType=github&theme=github-dark&preferLogin=false" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/akash9737/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash9737&theme=react-dark" />
+  </a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🔥 Master Microservices Architecture
+- 📦 Production Deployment with Docker
+- ☸️ Learn Kubernetes
+- 🧠 Solve 500+ LeetCode Problems
+- 🏗️ Strengthen System Design Skills
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="mailto:akash.parsaniya18@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💬 "Consistency + Discipline = Mastery 🚀"</h3>
+
 
