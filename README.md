@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="120"/>
 </p>
-<p align="center"> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/🌍_View_My_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://akash9737.github.io/akashparsaniya/" target="_blank"> <img src="https://img.shields.io/badge/🌍_View_My_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
 
 ---
 
